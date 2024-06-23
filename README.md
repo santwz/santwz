@@ -22,7 +22,7 @@ para aplicar meus conhecimentos e aprender mais.
 
 Além do background em matemática, tenho uma base sólida em Python, linguagem que mais utilizo atualmente.
 
-## Curiosidades
+## Sobre mim
 
 - 📚 Tenho dois livros de matemática publicados
 - 👩‍🏫 Sou fundador da Sant Academy, oferecemos uma mentoria personalizadas para alunos que querem melhorar em matemática
